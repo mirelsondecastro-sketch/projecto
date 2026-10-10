@@ -100,11 +100,10 @@ footer a{
     color: white;
     text-align: center;
     
+    
+    
 }
-footer > a {
-text-decoration: underline;
-color: #3ddc84;
-}
+
 
 header > h1{
     font-weight: normal;
