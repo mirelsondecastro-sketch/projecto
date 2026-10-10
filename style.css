@@ -34,7 +34,10 @@
     margin: 0%;
     padding: 0%;
 }
-
+#miro{
+ text-decoration: none; 
+ color: white;  
+}
 #cassio {
     
     text-decoration: none;
@@ -94,13 +97,13 @@ nav  a:hover{
 
 } 
 
-footer a{
+footer {
     font-family: var(--font);
     background-color: black;
     color: white;
     text-align: center;
-    
-    
+    margin: 0%;
+    padding: 0%;
     
 }
 
